@@ -1,0 +1,24 @@
+Question:
+
+You are tasked with designing a Convolutional Neural Network for a simple image classification problem. 
+The dataset divided into two classes: Cats and Dogs.
+
+Your CNN architecture includes:
+
+- An input layer for the grayscale images.
+- Two convolutional layers, each followed by a ReLU activation function.
+- Max-pooling layers to reduce the spatial dimensions.
+- A fully connected layer for classification.
+- A softmax layer for output probabilities.
+
+Answer the following:
+
+- What are the roles of the convolutional layers and the max-pooling layers in this architecture?
+
+- If the first convolutional layer uses a kernel size of 3×3 with a stride of 1 and no padding, what will be the output dimensions after the first convolutional layer if 16 filters are applied?
+
+- If a 2×2 max-pooling layer is applied after the first convolutional layer, what will be the output dimensions?
+
+- How does the use of ReLU activation function help in this architecture?
+
+- Suggest a suitable optimizer and loss function for training this network on the given dataset and explain why.
