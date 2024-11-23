@@ -38,6 +38,21 @@ This repository contains all the code and notes I've written while learning abou
 - Neural Networks
     - simple neural network (using `tensorflow`)
 
+
+- Advanced Neural Networks
+    - Convolutional Neural Networks (CNN)
+    - Recurrent Neural Networks (RNN)
+    - Long Short-Term Memory (LSTM)
+    - Aurotencoder
+    - Variational Autoencoders (VAE)
+    - Transformers
+
+    - Need to know networks:
+        - ResNet
+        - XCeption
+        - ConvNeXt
+
+
 > NOTES:
 >  - Scratch implementations are not optimized for performance. They are written to understand the underlying concepts using `numpy` and `pandas`.
 
